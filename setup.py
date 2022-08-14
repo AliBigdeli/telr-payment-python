@@ -8,7 +8,7 @@ project_urls = {
 
 setup(
     name='telr_payment',
-    version='0.1.3',
+    version='0.1.3.1',
     license='MIT',
     author="Ali Bigdeli",
     author_email='bigdeli.ali3@gmail.com',
