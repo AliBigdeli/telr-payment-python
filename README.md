@@ -4,7 +4,7 @@
 <h1 align="center">Python Telr Payment Gateway API</h1>
 <h3 align="center">a simple module to integrate with telr api for python language</h3>
 
-
+[![PyPI version](https://badge.fury.io/py/telr-payment.svg)](https://badge.fury.io/py/telr-payment)
 
 # Overview
 - [Overview](#overview)
