@@ -54,6 +54,9 @@ class Telr:
         post_data["bill_city"] = options.get("city") or None
         post_data["bill_country"] = options.get("country") or None
         post_data["bill_email"] = options.get("email") or None
+        post_data["bill_phone"] = options.get("phone") or None
+        post_data["bill_sname"] = options.get("sname") or None
+        
 
         return requests.post(url=self.url, data=post_data).json()
 
